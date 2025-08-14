@@ -60,9 +60,5 @@ The dashboard uses three CSV files:
 
 ---
 
-## 📜 Author
-**Your Name**  
-*Microsoft Azure Certified | Power BI Enthusiast | Data Analyst*
 
----
 
