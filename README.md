@@ -1,4 +1,4 @@
-# Credit Card Financial Dashboard – Customer
+# Credit Card Financial Dashboard 
 
 ## 📌 Project Overview
 This project is an **interactive Power BI dashboard** that provides a comprehensive analysis of credit card customer demographics, financial metrics, and transaction patterns.  
